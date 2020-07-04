@@ -1,6 +1,6 @@
 import java.util.*; 
 
-public class Graph { 
+public class Insertion { 
 	
 	public static void main(String[] args) 
 	{ 
